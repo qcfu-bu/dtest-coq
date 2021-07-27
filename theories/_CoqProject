@@ -1,0 +1,21 @@
+-R ../autosubst/theories Autosubst
+-R . Ssr
+
+AutosubstSsr.v
+ARS.v
+Context.v
+
+ast.v
+astCast.v
+smallstep.v
+smallstepCast.v
+confluence.v
+confluenceCast.v
+typing.v
+typing_bi.v
+typingCast.v
+progress.v
+preservation.v
+typesoundnessCast.v
+
+elab.v
